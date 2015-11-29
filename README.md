@@ -1,1 +1,3 @@
-# planar
+# planar.space
+
+Towards a unified map of time. A collective vision of the future.
